@@ -1,3 +1,3 @@
-a = 'e'
-b = 'A'
-c = nil
+# a = 'e'
+# b = 'A'
+# c = nil
