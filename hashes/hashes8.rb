@@ -11,4 +11,4 @@ words.each do |x|
   end
 end
 
-anagrams.each {|k,v| puts v.length > 1 ? "#{v}" : ""}
+anagrams.each {|k,v| puts v.length > 1 ? "#{v}" : nil}
